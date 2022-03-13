@@ -1,2 +1,2 @@
-console.log('AA');
+console.log('CCC');
 console.log('resetの練習');
