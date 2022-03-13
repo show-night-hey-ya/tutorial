@@ -1,2 +1,3 @@
-console.log('BB');
-console.log('feature-A ブランチで追加')
+
+console.log('CCC');
+console.log('feature-Aブランチで追加');
